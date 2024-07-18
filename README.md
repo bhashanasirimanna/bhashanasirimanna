@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://induwarasirimanna-induwara-sirimannas-projects.vercel.app](https://induwarasirimanna-induwara-sirimannas-projects.vercel.app)
 
-- 💬 Ask me about **react, java, and phython**
+- 💬 Ask me about **react, java, and python**
 
 - 📫 How to reach me **bhashanasirimanna@gmail.com**
 
