@@ -1,3 +1,4 @@
+![Black Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/1123fad6-4207-4f68-a5a4-b923e520b1fa)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/induwarasirimanna/) 
