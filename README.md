@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Induwara Sirimanna</h1>
 <p align="center">A passionate Software Engineer from Sri Lanka</p>
 
+[![](https://visitcount.itsvg.in/api?id=bhashanasirimanna&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/induwarasirimanna/) 
 
@@ -28,6 +30,6 @@
 </picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhashanasirimanna&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
