@@ -1,9 +1,16 @@
 ![Black Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/1123fad6-4207-4f68-a5a4-b923e520b1fa)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Induwara+Sirimanna!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Induwara Sirimanna</h1>
 <p align="center">A passionate Software Engineer from Sri Lanka</p>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=bhashanasirimanna&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<div>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=bhashanasirimanna&icon=0&color=0" alt="Visit Count">
+  </a>
+</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhashana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhashanasirimanna) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/bhashanasirimanna) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@induwa114) 
@@ -22,7 +29,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bhashanasirimanna&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bhashanasirimanna) 
+
+## 🐍 My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
